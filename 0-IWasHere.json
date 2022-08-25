@@ -1,0 +1,11 @@
+{
+    "name": "I Was Here",
+    "description": "Here Was I",
+    "image": "https://ipfs.io/ipfs/QmU9KF3TNa3X3bigv7PqkG4axESHs8YNsyJychVw9jxe82?filename=IWasHere.png",
+    "attributes": [
+        {
+            "trait_type": "hereness",
+            "value": 100
+        }
+    ]
+}
